@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #fab220;
+}
+.container{
+    width:80vmin ;
+    padding: 50px 40px;
+    
+
+
+}
